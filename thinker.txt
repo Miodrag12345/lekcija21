@@ -1,0 +1,11 @@
+Autobus(atributi koji su vezani za autobus specificni):
+-broj_sedista,brojvrata
+Avion(atributi koji su specificni za avion):
+-pogon(npr mlaznjak),broj tockova,broj sedista,padobran
+Automobil:
+ - Treba stoje atributi koji su samo za automobile
+ -Automobil :velicina_przljanika,mesto_prtzljanika,broj_vrata.... (specificne stvari za jedno vozilo atributi)
+
+Vozilo:
+*Klasa u kojoj stoje atributi za automobil.php treba stojati u vozilo .php jer su to zajednicki atributi
+-sadrzi sve vrednosti za automobil.php (tezina,visina,vrsta kao i marka model,boja)

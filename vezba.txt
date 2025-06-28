@@ -1,0 +1,10 @@
+1 vezba :
+Treba napraviti klase :
+Automobil(atributi:marka,model,boja)
+Vozilo:(atributi:visina,tezina,vrsta(automobil,poljoprivredno vozilo ...)
+
+2 Vezba(prosirena prva za modele ubaciti ):Napraviti 3 automobila:(u okviru index.php)
+1)Audi A4 crvena
+2)Yugo 55 Bela
+3)BMW X5 zuta
+

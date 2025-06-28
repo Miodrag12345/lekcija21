@@ -1,0 +1,3 @@
+radicemo :Inheritance(nasledjivanje)
+1 klasa nasledjuje drugu
+i scope(private,public,preotected)
